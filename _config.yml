@@ -62,34 +62,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Carlos Vladymir"
+  avatar : "/assets/images/site-bio-photo.jpg"
+  bio    : "Tech Enthusiast, History Buff, avid reader and self taught Designer"
   links:
+    - label: "Texas, USA"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://en.wikipedia.org/wiki/Texas"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://carlosvladymir.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/lare2"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/carlos_vladymir/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/lare2"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/carlos_vladymir/"
 
 defaults:
   # _posts
